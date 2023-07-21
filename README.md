@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Github banner png](https://user-images.githubusercontent.com/121974566/225435977-fa7d65bf-aa0c-4647-be51-b88436cb06d5.png)
 
+Motivated Data Scientist, currently contributing to machine learning and NLP-focused projects. Excited to explore new technology tools and techniques! 
+
 <!--
 **jwoodx5/jwoodx5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
