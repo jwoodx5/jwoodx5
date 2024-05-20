@@ -3,7 +3,11 @@
 
 Motivated Data Scientist, currently contributing to machine learning and NLP-focused projects. Excited to explore new technology tools and techniques! 
 
-Current tech-stack: Python, NumPy, Pandas, Scikit-learn, SQL, R, TensorFlow, Keras, Flask, Plotly, Streamlit, Matplotlib, ElephantSQL, GitHub, Heroku, Data/K-Cluster/Predictive Analysis, Machine Learning, Multivariate
+Current tech-stack
+
+Programming: Python (NumPy, Pandas, Scikit-learn, Matplotlib), SQL, R
+Frameworks & Tools: TensorFlow, Keras, Flask, Plotly, Streamlit, Heroku, MongoDB, GitHub, PostgreSQL, Docker
+Skills: Data Analysis, Linear and Multivariate Regressions, Predictive Analytics, K-Cluster Analysis, Machine Learning, Natural Language Processing(NLP), Data Visualization
 
 <!--
 **jwoodx5/jwoodx5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
