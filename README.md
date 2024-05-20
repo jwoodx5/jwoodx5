@@ -20,7 +20,11 @@ I am a motivated Data Scientist dedicated to utilizing data for solving complex 
 - **Frameworks & Tools:** TensorFlow, Keras, Flask, Plotly, Streamlit, Heroku, MongoDB, GitHub, PostgreSQL, Docker
 - **Skills:** Data Analysis, Predictive Analytics, Linear and Multivariate Regressions, K-Cluster Analysis, Machine Learning, Natural Language Processing (NLP), Data Visualization
 
-
+🌱 I’m currently learning ...Currently exploring advanced data structures and efficient algorithms to optimize data processing and model performance.
+- 👯 I’m looking to collaborate on ...Eager to work on projects that innovate or disrupt the traditional uses of data science and machine learning.
+- - 📫 How to reach me: ...jwoodruffx5@gmail.com
+  - ⚡ Fun fact: ...When I'm not coding, I love traveling, exploring the great outdoors and scuba diving!
+  - 
 <!--
 **jwoodx5/jwoodx5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
